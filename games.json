@@ -1,1 +1,30 @@
-
+{
+  "games": [
+    {
+      "id": "000001",
+      "title": "Amnesia",
+      "imageUrl": "https://lewdflix.com/wp-content/uploads/2026/08/Amnesia-Poster-792x1200.webp",
+      "coverUrl": "https://lewdflix.com/wp-content/uploads/2026/08/amnesia-6a8977c5ddbf8-1800x1013.webp",
+      "gameUrl": "https://lewdflix.com/?lfplay=0&gid=63076",
+      "description": "After a series of events now shrouded in mystery, our protagonist - a young man - fell into a coma, losing all recollection of the person he used to be. He is given a clean slate. All that’s left to do now is to carefully and thoroughly investigate every facet of your former self.​",
+      "category": "🕹️ Arcade",
+      "videoUrl": "3DCG",
+      "blockedCountries": [],
+      "orientation": "landscape",
+      "createdAt": "2026-09-22T18:01:01.389Z"
+    },
+    {
+      "id": "000001",
+      "title": "",
+      "imageUrl": "",
+      "coverUrl": "",
+      "gameUrl": "",
+      "description": "",
+      "category": "🕹️ Arcade",
+      "videoUrl": "",
+      "blockedCountries": [],
+      "orientation": "landscape",
+      "createdAt": "2026-09-22T18:01:01.389Z"
+    }
+  ]
+}
